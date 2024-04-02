@@ -1,5 +1,5 @@
 import React from "react";
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 //@ts-ignore
 import logo from "../ravencoin-rvn-logo.png";
 //@ts-ignore

@@ -1,4 +1,4 @@
-import RavencoinKey from "@ravenrebels/ravencoin-key";
+import RavencoinKey from "@aittlab/ravencoin-key";
 import React, { FormEvent } from "react";
 import { LightModeToggle } from "./components/LightModeToggle";
 import { setMnemonic } from "./utils";

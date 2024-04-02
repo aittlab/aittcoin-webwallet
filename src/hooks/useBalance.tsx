@@ -1,4 +1,4 @@
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 import React from "react";
 import { Events, addEventListener } from "../Events";
 

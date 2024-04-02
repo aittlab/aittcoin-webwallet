@@ -1,5 +1,5 @@
 //Note this is the CLASS Wallet, not an instance of the class
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 import React, { SyntheticEvent } from "react";
 import { QRCameraContainer } from "./QRCameraContainer";
 

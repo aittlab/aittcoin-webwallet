@@ -1,4 +1,4 @@
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 import { IAsset } from "./Types";
 
 const CryptoJS = require("crypto-js");

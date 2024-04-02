@@ -1,4 +1,4 @@
-import RavencoinWallet, { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import RavencoinWallet, { Wallet } from "@aittlab/ravencoin-jswallet";
 console.log("RavencoinWallet", !!RavencoinWallet);
 import React from "react";
 import { getMnemonic } from "./utils";

@@ -1,9 +1,9 @@
 import React from "react";
-import { getHistory } from "@ravenrebels/ravencoin-history-list";
+import { getHistory } from "@aittlab/ravencoin-history-list";
 import { AssetName } from "../AssetName";
 import { LabeledContent } from "./LabeledContent";
 import { ToAddress } from "./ToAddress";
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 import { CopyButton } from "../components/CopyButton";
 import { useTransaction } from "../useTransaction";
 

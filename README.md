@@ -7,7 +7,7 @@ Permissionless, open source, non-custodial (your keys never leave your browser).
 
 ### Clone the repo
 
-`git clone https://github.com/ravenrebels/ravencoin-webwallet.git`
+`git clone https://github.com/aittlab/ravencoin-webwallet.git`
 
 ### Install dependencies
 

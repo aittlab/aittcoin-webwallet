@@ -1,7 +1,7 @@
 import React, { ReactNode } from "react";
 import { Routes } from "./Routes";
 import { LightModeToggle } from "./components/LightModeToggle";
-import { Wallet } from "@ravenrebels/ravencoin-jswallet";
+import { Wallet } from "@aittlab/ravencoin-jswallet";
 import {
   IconHistory,
   IconHome,
