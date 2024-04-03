@@ -3,18 +3,6 @@ import React from "react";
 export function Footer({ signOut, mnemonic }) {
   return (
     <article>
-      <p>
-        Brought to you by{" "}
-        <a href="https://twitter.com/RavenRebels" target="_blank">
-          Raven Rebels
-        </a>
-      </p>
-      <a href="https://github.com/aittlab/ravencoin-webwallet">
-        Open source on GitHub
-      </a>
-      <br />
-      Icons from{" "}
-      <a href="https://feathericons.com/">https://feathericons.com/</a>
       <footer>
         <div className="grid">
           <button onClick={signOut}>Sign out</button>

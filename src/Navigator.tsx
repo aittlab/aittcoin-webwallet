@@ -36,7 +36,7 @@ export function Navigator({
           return false;
         }}
       >
-        <h5 className="rebel-headline">Rebel wallet</h5>
+        <h5 className="rebel-headline">AITT Wallet</h5>
       </a>
 
       {balance}

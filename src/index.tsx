@@ -115,7 +115,7 @@ function App() {
           </div>
         )}
 
-        <div className="rebel-content-container__content">
+        {/* <div className="rebel-content-container__content">
           {currentRoute === Routes.HOME && (
             <Assets wallet={wallet} assets={assets} mempool={mempool} />
           )}
@@ -141,7 +141,7 @@ function App() {
           {currentRoute === Routes.SIGN && (
             <Sign assets={assets} wallet={wallet} />
           )}
-        </div>
+        </div> */}
       </div>
 
       <Footer signOut={signOut} mnemonic={mnemonic} />

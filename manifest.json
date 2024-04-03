@@ -1,6 +1,6 @@
 {
-  "name": "Rebel wallet",
-  "short_name": "Rebel Wallet",
+  "name": "AITT Wallet",
+  "short_name": "AITT Wallet",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
