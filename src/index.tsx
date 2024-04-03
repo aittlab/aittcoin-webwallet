@@ -1,5 +1,5 @@
-import RavencoinWallet, { Wallet } from "@aittlab/ravencoin-jswallet";
-console.log("RavencoinWallet", !!RavencoinWallet);
+import AITTCoinWallet, { Wallet } from "@aittlab/ravencoin-jswallet";
+console.log("AITTCoinWallet", !!AITTCoinWallet);
 import React from "react";
 import { getMnemonic } from "./utils";
 import { createRoot } from "react-dom/client";
@@ -75,7 +75,7 @@ function App() {
       }
     }
 
-    RavencoinWallet.createInstance({
+    AITTCoinWallet.createInstance({
       minAmountOfAddresses,
       mnemonic,
       network,

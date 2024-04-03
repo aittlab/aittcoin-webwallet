@@ -59,10 +59,10 @@ function useUSDPrice(wallet: Wallet) {
   const [price, setPrice] = React.useState(0);
 
   React.useEffect(() => {
-    const isRavencoin = wallet && wallet.baseCurrency === "RVN";
+    const isAITTCoinWallet = wallet && wallet.baseCurrency === "RVN";
     const isEvrmorecoin = wallet && wallet.baseCurrency === "EVR";
     const work = () => {
-      if (isRavencoin === true) {
+      if (isAITTCoinWallet === true) {
         const URL =
           "https://api1.binance.com/api/v3/ticker/price?symbol=RVNUSDT";
         fetch(URL)

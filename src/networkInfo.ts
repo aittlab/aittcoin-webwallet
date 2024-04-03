@@ -20,7 +20,7 @@ const ravencoinMainnet: INetworkInfo = {
 };
 
 // const ravencoinTestnet: INetworkInfo = {
-//   displayName: "Ravencoin Testnet",
+//   displayName: "AITTCoinWallet Testnet",
 //   getThumbnailURL: (assetName) => {
 //     const baseURL = "https://testnet.ting.finance/thumbnail?assetName=";
 //     return baseURL + encodeURIComponent(assetName);
